@@ -21,5 +21,7 @@ Si no los encuentra, los instala automáticamente (requiere permisos `sudo`).
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/SithR2-D2/yt-audio-video-splitter.git
-cd yt-audio-video-splitter
+git clone https://github.com/SithR2-D2/M8UF4-Script.git
+cd M8UF4-Script
+chmod +x script.sh
+./script.sh
